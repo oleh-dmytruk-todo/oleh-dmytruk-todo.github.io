@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oleh-dmytruk-todo.github.io/sitemap.xml
