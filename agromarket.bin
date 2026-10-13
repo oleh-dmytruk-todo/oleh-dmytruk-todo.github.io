@@ -14,8 +14,137 @@
       <presence>Передзамовлення</presence>
       <presence>Немає в наявності</presence>
     </presences>
-    <categories><category id="66" url="https://agro-market.net/ua/catalog/cat/5/" parentId="462">Насіння овочів</category><category id="67" url="https://agro-market.net/ua/catalog/cat/33/" parentId="66">Кавун Україна</category><category id="68" url="https://agro-market.net/ua/catalog/cat/35/" parentId="66">Насіння баклажана</category><category id="69" url="https://agro-market.net/ua/catalog/cat/36/" parentId="66">Насіння перцю</category><category id="70" url="https://agro-market.net/ua/catalog/cat/37/" parentId="66">Насіння дині</category><category id="202" url="https://agro-market.net/ua/catalog/cat/193/" parentId="462">Насіння овочів, квітів та трав оптом</category><category id="203" url="https://agro-market.net/ua/catalog/cat/194/" parentId="202">Пакетоване насіння овочів у профупаковці</category><category id="462" url="https://agro-market.net/ua/catalog/cat/semena/">Насіння</category><category id="791" url="https://agro-market.net/ua/catalog/cat/most_popular_seeds_2016/" parentId="66">Найпопулярніше насіння</category><category id="892" url="https://agro-market.net/ua/catalog/cat/seeds_in_the_package/" parentId="462">Насіння в пакетах</category><category id="893" url="https://agro-market.net/ua/catalog/cat/vegetable_seeds_in_the_package_standart/" parentId="892">Насіння овочів у пакеті</category><category id="923" url="https://agro-market.net/ua/catalog/cat/top_25_best_vegetable_seeds_in_the_package_coming_soon/" parentId="892">Топ 50 насіння овочів у пакеті</category><category id="925" url="https://agro-market.net/ua/catalog/cat/popular_seeds_in_the_package_in_2016_coming_soon/" parentId="892">Хіт продажів</category><category id="932" url="https://agro-market.net/ua/catalog/cat/scarce_varieties_of_seeds_of_vegetables_and_flowers_in_the_pack_coming_soon/" parentId="892">Дефіцитні сорти насіння овочів у пакеті</category><category id="1567" url="https://agro-market.net/ua/catalog/cat/sila_skidok/" parentId="4479">Сила знижок</category><category id="1692" url="https://agro-market.net/ua/catalog/cat/ostryy_perets/" parentId="66">Насіння гострого перцю</category><category id="2293" url="https://agro-market.net/ua/catalog/cat/nastoyashchie_khity_semyan/" parentId="462">Справжні хіти насіння</category><category id="4479" url="https://agro-market.net/ua/catalog/cat/drugie_razdely_semyan/" parentId="462">Інші розділи насіння</category><category id="7708" url="https://agro-market.net/ua/catalog/cat/sale/" parentId="7712">Розпродаж</category><category id="7712" url="https://agro-market.net/ua/catalog/cat/super_duper_tut/">Супер дупер тут</category></categories>
+    <categories><category id="66" url="https://agro-market.net/ua/catalog/cat/5/" parentId="462">Насіння овочів</category><category id="67" url="https://agro-market.net/ua/catalog/cat/33/" parentId="66">Кавун Україна</category><category id="68" url="https://agro-market.net/ua/catalog/cat/35/" parentId="66">Насіння баклажана</category><category id="69" url="https://agro-market.net/ua/catalog/cat/36/" parentId="66">Насіння перцю</category><category id="70" url="https://agro-market.net/ua/catalog/cat/37/" parentId="66">Насіння дині</category><category id="71" url="https://agro-market.net/ua/catalog/cat/38/" parentId="66">Насіння кабачків</category><category id="72" url="https://agro-market.net/ua/catalog/cat/39/" parentId="66">Насіння зелені</category><category id="73" url="https://agro-market.net/ua/catalog/cat/40/" parentId="66">Насіння ріпи</category><category id="89" url="https://agro-market.net/ua/catalog/cat/307/" parentId="66">Насіння патисонів</category><category id="202" url="https://agro-market.net/ua/catalog/cat/193/" parentId="462">Насіння овочів, квітів та трав оптом</category><category id="203" url="https://agro-market.net/ua/catalog/cat/194/" parentId="202">Пакетоване насіння овочів у профупаковці</category><category id="462" url="https://agro-market.net/ua/catalog/cat/semena/">Насіння</category><category id="786" url="https://agro-market.net/ua/catalog/cat/seeds_exotic_garden/" parentId="66">Незвичайна грядка</category><category id="788" url="https://agro-market.net/ua/catalog/cat/seeds_for_farmers/" parentId="66">Для високого врожаю</category><category id="791" url="https://agro-market.net/ua/catalog/cat/most_popular_seeds_2016/" parentId="66">Найпопулярніше насіння</category><category id="892" url="https://agro-market.net/ua/catalog/cat/seeds_in_the_package/" parentId="462">Насіння в пакетах</category><category id="893" url="https://agro-market.net/ua/catalog/cat/vegetable_seeds_in_the_package_standart/" parentId="892">Насіння овочів у пакеті</category><category id="923" url="https://agro-market.net/ua/catalog/cat/top_25_best_vegetable_seeds_in_the_package_coming_soon/" parentId="892">Топ 50 насіння овочів у пакеті</category><category id="925" url="https://agro-market.net/ua/catalog/cat/popular_seeds_in_the_package_in_2016_coming_soon/" parentId="892">Хіт продажів</category><category id="926" url="https://agro-market.net/ua/catalog/cat/seeds_in_the_package_for_high_harvest_coming_soon/" parentId="892">Насіння в пакеті для високого врожаю</category><category id="932" url="https://agro-market.net/ua/catalog/cat/scarce_varieties_of_seeds_of_vegetables_and_flowers_in_the_pack_coming_soon/" parentId="892">Дефіцитні сорти насіння овочів у пакеті</category><category id="940" url="https://agro-market.net/ua/catalog/cat/spicy_seeds_and_green_crops/" parentId="462">Насіння пряних культур</category><category id="948" url="https://agro-market.net/ua/catalog/cat/dill/" parentId="940">Насіння кропу</category><category id="1567" url="https://agro-market.net/ua/catalog/cat/sila_skidok/" parentId="4479">Сила знижок</category><category id="1692" url="https://agro-market.net/ua/catalog/cat/ostryy_perets/" parentId="66">Насіння гострого перцю</category><category id="2231" url="https://agro-market.net/ua/catalog/cat/redka/" parentId="66">Насіння дайкону</category><category id="2293" url="https://agro-market.net/ua/catalog/cat/nastoyashchie_khity_semyan/" parentId="462">Справжні хіти насіння</category><category id="4479" url="https://agro-market.net/ua/catalog/cat/drugie_razdely_semyan/" parentId="462">Інші розділи насіння</category><category id="7708" url="https://agro-market.net/ua/catalog/cat/sale/" parentId="7712">Розпродаж</category><category id="7712" url="https://agro-market.net/ua/catalog/cat/super_duper_tut/">Супер дупер тут</category></categories>
     <offers>
+<offer id="382" available="1">
+        <url>https://agro-market.net/ua/catalog/item/24/</url>
+        <picture>https://agro-market.net/upload/iblock/c33/79mzjco4butws1agz56pvl9mrxhj7pj2.jpeg</picture>
+        <name>Кавун "Ау Продюсер" ТМ "Весна" 1.5г</name>
+        <categoryId>67</categoryId>
+        <categoryId>66</categoryId>
+        <categoryId>203</categoryId>
+        <categoryId>462</categoryId>
+        <categoryId>893</categoryId>
+        <categoryId>1647</categoryId>
+        <categoryId>2293</categoryId>
+        <currencyId>UAH</currencyId>
+        <ordering>620030</ordering>
+        <price>22.92</price>
+        <vendorCode>10024</vendorCode>
+        <description>Кавун &amp;quot;Ау Продюсер&amp;quot; - це ранньостиглий, високоврожайний сорт з підвищеним вмістом цукру. Вегетаційний період від сходів до збору врожаю становить 75-80 днів. Плоди овальної форми, світло-зеленого кольору з темно-зеленими смугами, великі, вагою 8-12 кг. М'якоть яскраво-червоного кольору, соковита, смачна і дуже солодка - вміст цукру становить більше 12%. Стійкість до захворювань - одна з причин високої врожайності сорту. Добре зберігається і транспортується. Використовується для споживання у свіжому вигляді.
+
+
+Переваги покупки в Agro-Market 
+
+
+ Тільки найкращі сорти, вирощені
+   в Україні 
+ Маркування кожного сорту 
+ 100% відповідність сортів 
+ Бережна і цілісна
+   упаковка 
+ Перевірені часом сорти 
+ Приживлюваність в будь-якому
+   регіоні України</description>
+        <presence>В наявності.</presence>
+        <param field="true" index="false" name="artnumber">10024</param>
+        <param field="true" index="false" name="section_id">67</param>
+        <param field="true" index="false" name="rate">5</param>
+        <param name="Форма плоду">овальна</param>
+        <param name="Колір м'якоті">червона</param>
+        <param name="Термін вегетації"/>
+        <param name="Сортність">сортовий</param>
+        <param name="Відстань посадки">1-2м</param>
+        <param name="Розмір плоду">великоплідний</param>
+        <param name="Колір плоду">зелений</param>
+        <param name="Термін дозрівання">ранній</param>
+        <param name="Упаковка">пакет</param>
+        <param name="Запилюваність">перехресне запилення</param>
+        <param name="Смак плода">солодкий (десертний)</param>
+        <param name="Місце посадки">город</param>
+        <param name="Бренд">Весна</param>
+        <param name="Колір рослини">Зелений</param>
+        <param name="Тип використання">Для заморозки</param>
+        <param name="Тип використання">Консервування</param>
+        <param name="Тип використання">На компот і варення</param>
+        <param name="Тип використання">На сік</param>
+        <param name="Тип використання">На вино</param>
+        <param name="Тип використання">у свіжому вигляді</param>
+        <param name="Терміни доставки">з лютого по червень</param>
+        <param name="Терміни доставки">з вересня по грудень</param>
+        <param name="Рівень поливу"/>
+        <param name="Рівень складності догляду"/>
+        <param name="Тип клімату">М'який клімат</param>
+        <param name="Тип клімату">Підходить для висадки на півдні</param>
+        <param name="Тип клімату">Помірний клімат</param>
+        <param name="Тип грунту">Чорнозем</param>
+        <param name="Тип грунту">Звичайна грунт нормальної якості</param>
+        <param name="Тип грунту">Пісок</param>
+        <param name="Сонячне світло">Рекомендується світла сторона</param>
+      </offer>
+<offer id="384" available="1">
+        <url>https://agro-market.net/ua/catalog/item/26/</url>
+        <picture>https://agro-market.net/upload/iblock/ef0/yfqmow52kaj7yzkuend9k5k9eqxkrnbv.jpeg</picture>
+        <name>Кавун "Шуга Бебі" ТМ "Весна" 1.5г</name>
+        <categoryId>67</categoryId>
+        <categoryId>66</categoryId>
+        <categoryId>203</categoryId>
+        <categoryId>462</categoryId>
+        <categoryId>893</categoryId>
+        <categoryId>1647</categoryId>
+        <categoryId>7708</categoryId>
+        <currencyId>UAH</currencyId>
+        <ordering>620035</ordering>
+        <price>17.19</price>
+        <oldprice>22.92</oldprice>
+        <vendorCode>10026</vendorCode>
+        <description>Кавун &amp;quot;Шуга Бебі&amp;quot;  - це популярний ранньостиглий сорт, який цінується за компактні розміри плодів, високу врожайність і чудовий солодкий смак. Відмінно підходить для вирощування у відкритому ґрунті та під тимчасовими плівковими укриттями, швидко дозріваючи навіть у регіонах із коротким літом.Рослина формує потужні батоги середньої довжини та добре розвивається на сонячних ділянках із легким, родючим і добре дренованим ґрунтом. Плоди округлої форми, масою 3–5 кг, вкриті тонкою темно-зеленою, майже чорною шкіркою. Урожай дозріває через 70–85 днів після появи сходів.М'якоть яскраво-червона, щільна, дуже соковита та солодка, з високим вмістом цукрів і невеликою кількістю дрібного насіння. Плоди ідеально підходять для споживання у свіжому вигляді, зберігаючи насичений смак і приємний аромат.Характеристики:Тип: ранньостиглий сорт.Термін дозрівання: 70–85 днів.Маса плоду: 3–5 кг.Форма плоду: округла.Колір шкірки: темно-зелений, майже чорний.Колір м'якоті: яскраво-червоний.Смак: дуже солодкий, соковитий.Призначення: для споживання у свіжому вигляді.Тип запилення: комахозапильний.
+
+Переваги покупки в Agro-Market
+
+
+  Тільки найкращі сорти, вирощені в Україні 
+  Маркування кожного сорту 
+  100% відповідність сортів 
+  Бережна і цілісна упаковка 
+  Перевірені часом сорти 
+  Приживлюваність в будь-якому регіоні України 
+</description>
+        <presence>В наявності.</presence>
+        <param field="true" index="false" name="artnumber">10026</param>
+        <param field="true" index="false" name="section_id">67</param>
+        <param field="true" index="false" name="rate">5</param>
+        <param name="Форма плоду">округла</param>
+        <param name="Колір м'якоті">червона</param>
+        <param name="Термін вегетації"/>
+        <param name="Відстань посадки">1-2м</param>
+        <param name="Розмір плоду">великоплідний</param>
+        <param name="Колір плоду">зелений</param>
+        <param name="Термін дозрівання">ранній</param>
+        <param name="Упаковка">пакет</param>
+        <param name="Запилюваність">перехресне запилення</param>
+        <param name="Смак плода">солодкий (десертний)</param>
+        <param name="Місце посадки">город</param>
+        <param name="Бренд">Весна</param>
+        <param name="Колір рослини">Зелений</param>
+        <param name="Тип використання">Для заморозки</param>
+        <param name="Тип використання">Консервування</param>
+        <param name="Тип використання">На компот і варення</param>
+        <param name="Тип використання">На сік</param>
+        <param name="Тип використання">На вино</param>
+        <param name="Тип використання">у свіжому вигляді</param>
+        <param name="Терміни доставки">з лютого по червень</param>
+        <param name="Терміни доставки">з вересня по грудень</param>
+        <param name="Рівень поливу"/>
+        <param name="Рівень складності догляду"/>
+        <param name="Тип клімату">М'який клімат</param>
+        <param name="Тип клімату">Підходить для висадки на півдні</param>
+        <param name="Тип клімату">Помірний клімат</param>
+        <param name="Тип грунту">Чорнозем</param>
+        <param name="Тип грунту">Звичайна грунт нормальної якості</param>
+        <param name="Тип грунту">Пісок</param>
+        <param name="Сонячне світло">Рекомендується світла сторона</param>
+      </offer>
 <offer id="386" available="1">
         <url>https://agro-market.net/ua/catalog/item/29/</url>
         <picture>https://agro-market.net/upload/iblock/bee/6m2bqqg88o8e5jnoepepe9o7pobpw5m9.jpeg</picture>
@@ -1566,6 +1695,959 @@
         <param name="Тип грунту">Звичайна грунт нормальної якості</param>
         <param name="Тип грунту">Пісок</param>
         <param name="Тип грунту">Сухий грунт</param>
+        <param name="Сонячне світло">Рекомендується світла сторона</param>
+      </offer>
+<offer id="486" available="1">
+        <url>https://agro-market.net/ua/catalog/item/132/</url>
+        <picture>https://agro-market.net/upload/iblock/1fa/l4o1tdrn84x8y9sfx578atdgrft6hgs2.jpeg</picture>
+        <name>Диня "Рання 133" ТМ "Весна" 1.5г</name>
+        <categoryId>70</categoryId>
+        <categoryId>66</categoryId>
+        <categoryId>203</categoryId>
+        <categoryId>462</categoryId>
+        <categoryId>893</categoryId>
+        <categoryId>1647</categoryId>
+        <currencyId>UAH</currencyId>
+        <ordering>620054</ordering>
+        <price>22.92</price>
+        <vendorCode>10132</vendorCode>
+        <description>Диня &amp;quot;Рання 133&amp;quot;  - це ранньостиглий сорт. Плоди овальної форми, жовтого кольору, з щільною або часткової сіткою. М'якоть ніжна, соковита, солодка. Середня вага плоду - 1-1,2 кг. Містить пектини - харчові волокна, які мають властивість очищати організм від шлаків.   
+
+Переваги покупки в Agro-Market
+
+
+   Тільки найкращі сорти, вирощені в Україні 
+   Маркування кожного сорту 
+   100% відповідність сортів 
+   Бережна і цілісна упаковка 
+   Перевірені часом сорти 
+   Приживлюваність в будь-якому регіоні України 
+</description>
+        <presence>В наявності.</presence>
+        <param field="true" index="false" name="artnumber">10132</param>
+        <param field="true" index="false" name="section_id">70</param>
+        <param field="true" index="false" name="rate">5</param>
+        <param name="Форма плоду">овальна</param>
+        <param name="Колір м'якоті">кремовий</param>
+        <param name="Термін вегетації"/>
+        <param name="Відстань посадки">30-50см</param>
+        <param name="Розмір плоду">середньоплідний</param>
+        <param name="Колір плоду">жовтий</param>
+        <param name="Термін дозрівання">ранній</param>
+        <param name="Упаковка">пакет</param>
+        <param name="Запилюваність">перехресне запилення</param>
+        <param name="Смак плода">солодкий (десертний)</param>
+        <param name="Місце посадки">город</param>
+        <param name="Бренд">Весна</param>
+        <param name="Колір рослини">Зелений</param>
+        <param name="Тип використання">Для заморозки</param>
+        <param name="Тип використання">Консервування</param>
+        <param name="Тип використання">Кулінарія</param>
+        <param name="Тип використання">На компот і варення</param>
+        <param name="Тип використання">На сік</param>
+        <param name="Тип використання">у свіжому вигляді</param>
+        <param name="Терміни доставки">цілий рік</param>
+        <param name="Рівень поливу"/>
+        <param name="Рівень складності догляду"/>
+        <param name="Тип клімату">М'який клімат</param>
+        <param name="Тип клімату">Підходить для висадки на півдні</param>
+        <param name="Тип клімату">Помірний клімат</param>
+        <param name="Тип грунту">Чорнозем</param>
+        <param name="Тип грунту">Звичайна грунт нормальної якості</param>
+        <param name="Тип грунту">Пісок</param>
+        <param name="Тип грунту">Сухий грунт</param>
+        <param name="Сонячне світло">Рекомендується світла сторона</param>
+      </offer>
+<offer id="487" available="1">
+        <url>https://agro-market.net/ua/catalog/item/133/</url>
+        <picture>https://agro-market.net/upload/iblock/414/5qtkduyu68eb3migqzxv7r6dlxd4qld6.jpeg</picture>
+        <name>Диня "Тітовка" ТМ "Весна" 1.5г</name>
+        <categoryId>70</categoryId>
+        <categoryId>66</categoryId>
+        <categoryId>202</categoryId>
+        <categoryId>203</categoryId>
+        <categoryId>462</categoryId>
+        <categoryId>893</categoryId>
+        <categoryId>926</categoryId>
+        <categoryId>1567</categoryId>
+        <categoryId>1647</categoryId>
+        <categoryId>7708</categoryId>
+        <currencyId>UAH</currencyId>
+        <ordering>620025</ordering>
+        <price>8.9</price>
+        <oldprice>22.26</oldprice>
+        <vendorCode>10133</vendorCode>
+        <description>Диня &amp;quot;Тітовка&amp;quot; - це ранньостиглий сорт дині. Вегетаційний період від сходів до збору врожаю - 55-75 днів. Рослина довгоплетиста. Плід округло-овальний, жовто-помаранчевого кольору, середня вага плоду - 1,5-3,0 кг. М'якоть біла, соковита, дуже ніжна і солодка, з яскраво вираженим ароматом. Сорт відрізняється високою транспортабельністю і стійкістю до хвороб і шкідників. Використовують у свіжому вигляді й для перероблювання.
+
+Переваги покупки в Agro-Market
+
+
+   Тільки найкращі сорти, вирощені в Україні 
+   Маркування кожного сорту 
+   100% відповідність сортів 
+   Бережна і цілісна упаковка 
+   Перевірені часом сорти 
+   Приживлюваність в будь-якому регіоні України 
+</description>
+        <presence>В наявності.</presence>
+        <param field="true" index="false" name="artnumber">10133</param>
+        <param field="true" index="false" name="section_id">70</param>
+        <param field="true" index="false" name="rate">5</param>
+        <param name="Форма плоду">овально-кругла</param>
+        <param name="Колір м'якоті">біла</param>
+        <param name="Термін вегетації"/>
+        <param name="Відстань посадки">30-50см</param>
+        <param name="Розмір плоду">середньоплідний</param>
+        <param name="Колір плоду">жовтий</param>
+        <param name="Термін дозрівання">ранній</param>
+        <param name="Упаковка">пакет</param>
+        <param name="Запилюваність">перехресне запилення</param>
+        <param name="Смак плода">солодкий (десертний)</param>
+        <param name="Місце посадки">город</param>
+        <param name="Бренд">Весна</param>
+        <param name="Колір рослини">Зелений</param>
+        <param name="Тип використання">Для заморозки</param>
+        <param name="Тип використання">Консервування</param>
+        <param name="Тип використання">Кулінарія</param>
+        <param name="Тип використання">На компот і варення</param>
+        <param name="Тип використання">На сік</param>
+        <param name="Тип використання">у свіжому вигляді</param>
+        <param name="Терміни доставки">цілий рік</param>
+        <param name="Рівень поливу"/>
+        <param name="Рівень складності догляду"/>
+        <param name="Тип клімату">М'який клімат</param>
+        <param name="Тип клімату">Підходить для висадки на півдні</param>
+        <param name="Тип клімату">Помірний клімат</param>
+        <param name="Тип грунту">Чорнозем</param>
+        <param name="Тип грунту">Звичайна грунт нормальної якості</param>
+        <param name="Тип грунту">Пісок</param>
+        <param name="Тип грунту">Сухий грунт</param>
+        <param name="Сонячне світло">Рекомендується світла сторона</param>
+      </offer>
+<offer id="491" available="1">
+        <url>https://agro-market.net/ua/catalog/item/137/</url>
+        <picture>https://agro-market.net/upload/iblock/602/y9pilgn7j2czte8wcqifnur3v2rknivj.jpeg</picture>
+        <name>Диня "Ананас" ТМ "Весна" 1.5г</name>
+        <categoryId>70</categoryId>
+        <categoryId>66</categoryId>
+        <categoryId>203</categoryId>
+        <categoryId>462</categoryId>
+        <categoryId>893</categoryId>
+        <categoryId>1647</categoryId>
+        <currencyId>UAH</currencyId>
+        <ordering>620016</ordering>
+        <price>22.48</price>
+        <vendorCode>10137</vendorCode>
+        <description>Диня &amp;quot;Ананас&amp;quot; - це середньостиглий сорт. Вегетаційний період від сходів до технічної стиглості 75-95 днів. Плоди овальної форми, помаранчевого кольору з сіткою на шкірці, довжиною 14-16см, вагою 2-2,5кг. М'якоть біла, соковита, масляниста та ароматна, за смаком нагадує ананас. Плоди прекрасно переносять транспортування. У північних районах рекомендується вирощувати через розсаду.
+
+Переваги покупки в Agro-Market
+
+
+   Тільки найкращі сорти, вирощені в Україні 
+   Маркування кожного сорту 
+   100% відповідність сортів 
+   Бережна і цілісна упаковка 
+   Перевірені часом сорти 
+   Приживлюваність в будь-якому регіоні України 
+</description>
+        <presence>Швидка відправка</presence>
+        <param field="true" index="false" name="artnumber">10137</param>
+        <param field="true" index="false" name="section_id">70</param>
+        <param field="true" index="false" name="rate">5</param>
+        <param name="Форма плоду">овальна</param>
+        <param name="Колір м'якоті">біла</param>
+        <param name="Термін вегетації"/>
+        <param name="Відстань посадки">30-50см</param>
+        <param name="Розмір плоду">середньоплідний</param>
+        <param name="Колір плоду">помаранчевий</param>
+        <param name="Термін дозрівання">середній</param>
+        <param name="Упаковка">пакет</param>
+        <param name="Запилюваність">перехресне запилення</param>
+        <param name="Смак плода">солодкий (десертний)</param>
+        <param name="Місце посадки">город</param>
+        <param name="Бренд">Весна</param>
+        <param name="Колір рослини">Зелений</param>
+        <param name="Тип використання">Для заморозки</param>
+        <param name="Тип використання">Консервування</param>
+        <param name="Тип використання">Кулінарія</param>
+        <param name="Тип використання">На компот і варення</param>
+        <param name="Тип використання">На сік</param>
+        <param name="Тип використання">у свіжому вигляді</param>
+        <param name="Терміни доставки">цілий рік</param>
+        <param name="Рівень поливу"/>
+        <param name="Рівень складності догляду"/>
+        <param name="Тип клімату">М'який клімат</param>
+        <param name="Тип клімату">Підходить для висадки на півдні</param>
+        <param name="Тип клімату">Помірний клімат</param>
+        <param name="Тип грунту">Чорнозем</param>
+        <param name="Тип грунту">Звичайна грунт нормальної якості</param>
+        <param name="Тип грунту">Пісок</param>
+        <param name="Тип грунту">Сухий грунт</param>
+        <param name="Сонячне світло">Рекомендується світла сторона</param>
+      </offer>
+<offer id="492" available="1">
+        <url>https://agro-market.net/ua/catalog/item/138/</url>
+        <picture>https://agro-market.net/upload/iblock/40d/jhp4sidr6j6zmxekmvh260a1r69c4m3d.jpeg</picture>
+        <name>Диня "Медовий аромат" ТМ "Весна" 1.5г</name>
+        <categoryId>70</categoryId>
+        <categoryId>66</categoryId>
+        <categoryId>203</categoryId>
+        <categoryId>462</categoryId>
+        <categoryId>893</categoryId>
+        <categoryId>1647</categoryId>
+        <categoryId>7708</categoryId>
+        <currencyId>UAH</currencyId>
+        <ordering>620050</ordering>
+        <price>17.19</price>
+        <oldprice>22.92</oldprice>
+        <vendorCode>10138</vendorCode>
+        <description>Диня &amp;quot;Медовий аромат&amp;quot; – це середньоранній сорт голландської селекції. Рослина середньої сили зростання. Плоди округлі із сітчастою шкіркою, жовтувато-коричневого забарвлення, привабливого зовнішнього вигляду, масою 1-1,2 кг. М'якуш соковитий, ніжний, оранжевого кольору, з сильним ароматом. Смакові якості відмінні, насіннєва камера маленька. Стійкий до фітофторозу та борошнистої роси.
+
+Переваги покупки в Agro-Market
+
+
+   Тільки найкращі сорти, вирощені в Україні 
+   Маркування кожного сорту 
+   100% відповідність сортів 
+   Бережна і цілісна упаковка 
+   Перевірені часом сорти 
+   Приживлюваність в будь-якому регіоні України 
+</description>
+        <presence>В наявності.</presence>
+        <param field="true" index="false" name="artnumber">10138</param>
+        <param field="true" index="false" name="section_id">70</param>
+        <param field="true" index="false" name="rate">5</param>
+        <param name="Форма плоду">округла</param>
+        <param name="Колір м'якоті">помаранчева</param>
+        <param name="Термін вегетації"/>
+        <param name="Країна виробник">Україна</param>
+        <param name="Фасовка">міні упаковка</param>
+        <param name="Відстань посадки">30-50см</param>
+        <param name="Розмір плоду">середньоплідний</param>
+        <param name="Колір плоду">коричневий</param>
+        <param name="Колір плоду">мультиколор</param>
+        <param name="Колір плоду">жовтий</param>
+        <param name="Термін дозрівання">середньоранній</param>
+        <param name="Упаковка">пакет</param>
+        <param name="Запилюваність">перехресне запилення</param>
+        <param name="Смак плода">солодкий (десертний)</param>
+        <param name="Місце посадки">город</param>
+        <param name="Бренд">Весна</param>
+        <param name="Колір рослини">Зелений</param>
+        <param name="Тип використання">Для заморозки</param>
+        <param name="Тип використання">Консервування</param>
+        <param name="Тип використання">Кулінарія</param>
+        <param name="Тип використання">На компот і варення</param>
+        <param name="Тип використання">На сік</param>
+        <param name="Тип використання">у свіжому вигляді</param>
+        <param name="Терміни доставки">цілий рік</param>
+        <param name="Рівень поливу"/>
+        <param name="Рівень складності догляду"/>
+        <param name="Тип клімату">М'який клімат</param>
+        <param name="Тип клімату">Підходить для висадки на півдні</param>
+        <param name="Тип клімату">Помірний клімат</param>
+        <param name="Тип грунту">Чорнозем</param>
+        <param name="Тип грунту">Звичайна грунт нормальної якості</param>
+        <param name="Тип грунту">Пісок</param>
+        <param name="Тип грунту">Сухий грунт</param>
+        <param name="Сонячне світло">Рекомендується світла сторона</param>
+      </offer>
+<offer id="509" available="1">
+        <url>https://agro-market.net/ua/catalog/item/155/</url>
+        <picture>https://agro-market.net/upload/iblock/522/o4kyxtj32urb67smy6aqak295uw86ime.jpeg</picture>
+        <name>Кабачок-цукіні "Світозар" ТМ "Весна" 2г</name>
+        <categoryId>71</categoryId>
+        <categoryId>66</categoryId>
+        <categoryId>203</categoryId>
+        <categoryId>462</categoryId>
+        <categoryId>893</categoryId>
+        <categoryId>1647</categoryId>
+        <currencyId>UAH</currencyId>
+        <ordering>620023</ordering>
+        <price>16.13</price>
+        <vendorCode>10155</vendorCode>
+        <description> Кабачок-цукіні &amp;quot;Світозар&amp;quot;  - ранньостиглий сорт 40-50 днів. Плід циліндричної форми, довжиною 27-30см, вагою 400-600г, золотисто-жовтого забарвлення. Шкіра тонка, м'якоть біла, соковита, помаранчевого кольору з ніжним малосолодким смаком. Сорт стійкий до хвороб. Збір врожаю до перших заморозків. Використовується для консервування та в домашній кулінарії.
+
+
+Переваги покупки в Agro-Market 
+
+
+ Тільки найкращі сорти, вирощені
+   в Україні 
+ Маркування кожного сорту 
+ 100% відповідність сортів 
+ Бережна і цілісна
+   упаковка 
+ Перевірені часом сорти 
+ Приживлюваність в будь-якому
+   регіоні України</description>
+        <presence>В наявності.</presence>
+        <param field="true" index="false" name="artnumber">10155</param>
+        <param field="true" index="false" name="section_id">71</param>
+        <param field="true" index="false" name="rate">5</param>
+        <param name="Форма плоду">циліндрична</param>
+        <param name="Колір м'якоті">зеленувато-білий</param>
+        <param name="Термін вегетації"/>
+        <param name="Сортність">сортовий</param>
+        <param name="Збір врожаю">липень-жовтень</param>
+        <param name="Довжина плоду">27-30см</param>
+        <param name="Відстань посадки">50-100см</param>
+        <param name="Розмір плоду">великоплідний</param>
+        <param name="Колір плоду">жовтий</param>
+        <param name="Термін дозрівання">ранній</param>
+        <param name="Упаковка">пакет</param>
+        <param name="Запилюваність">перехресне запилення</param>
+        <param name="Місце посадки">город</param>
+        <param name="Бренд">Весна</param>
+        <param name="Колір рослини">Зелений</param>
+        <param name="Тип використання">Для заморозки</param>
+        <param name="Тип використання">Консервування</param>
+        <param name="Тип використання">Кулінарія</param>
+        <param name="Терміни доставки">з лютого по червень</param>
+        <param name="Рівень поливу"/>
+        <param name="Рівень складності догляду"/>
+        <param name="Тип клімату">М'який клімат</param>
+        <param name="Тип клімату">Підходить для висадки на півдні</param>
+        <param name="Тип клімату">Помірний клімат</param>
+        <param name="Тип грунту">Чорнозем</param>
+        <param name="Тип грунту">Звичайна грунт нормальної якості</param>
+        <param name="Тип грунту">Сухий грунт</param>
+        <param name="Сонячне світло">Рекомендується світла сторона</param>
+      </offer>
+<offer id="510" available="1">
+        <url>https://agro-market.net/ua/catalog/item/156/</url>
+        <picture>https://agro-market.net/upload/iblock/1db/4tae2td14e5brfz9d4wodpaoa55n93mb.jpeg</picture>
+        <name>Кабачок-цукіні "Зебра" ТМ "Весна" 2г</name>
+        <categoryId>71</categoryId>
+        <categoryId>66</categoryId>
+        <categoryId>203</categoryId>
+        <categoryId>462</categoryId>
+        <categoryId>786</categoryId>
+        <categoryId>893</categoryId>
+        <categoryId>932</categoryId>
+        <categoryId>1647</categoryId>
+        <currencyId>UAH</currencyId>
+        <ordering>620055</ordering>
+        <price>16.29</price>
+        <vendorCode>10156</vendorCode>
+        <description>Сорт ранньостиглий, високоврожайний. Період дозрівання в середньому становить 38-40 днів. Плід має форму циліндра. Назва представника сімейства гарбузових, саме говорить про його забарвленні, так як гладкий світло-зелений плід розбавляють поздовжні темно-зелені смуги. М'якоть зазвичай має білувато-жовтий колір, трохи солодка і досить соковита.    Вирощувати кабачок можна і в парниках, і на відкритій місцевості. Головний пагін рослини - короткий, батогів мало, тому воно досить компактне. Один плід може важити від 500г до 1кг. Кабачки «Зебра» - популярний інгредієнт в кулінарії, має відмінні смакові якості.</description>
+        <presence>В наявності.</presence>
+        <param field="true" index="false" name="artnumber">10156</param>
+        <param field="true" index="false" name="section_id">71</param>
+        <param field="true" index="false" name="rate">5</param>
+        <param name="Форма плоду">циліндрична</param>
+        <param name="Колір м'якоті">зеленувато-білий</param>
+        <param name="Термін вегетації"/>
+        <param name="Сортність">сортовий</param>
+        <param name="Збір врожаю">липень-жовтень</param>
+        <param name="Довжина плоду">28-30см</param>
+        <param name="Відстань посадки">50-100см</param>
+        <param name="Розмір плоду">великоплідний</param>
+        <param name="Колір плоду">зелений</param>
+        <param name="Термін дозрівання">ранній</param>
+        <param name="Упаковка">пакет</param>
+        <param name="Запилюваність">самозапильний</param>
+        <param name="Бренд">Весна</param>
+        <param name="Колір рослини">Зелений</param>
+        <param name="Тип використання">Для заморозки</param>
+        <param name="Тип використання">Консервування</param>
+        <param name="Тип використання">Кулінарія</param>
+        <param name="Терміни доставки">з лютого по червень</param>
+        <param name="Терміни доставки">з вересня по грудень</param>
+        <param name="Тип клімату">М'який клімат</param>
+        <param name="Тип клімату">Підходить для висадки на півдні</param>
+        <param name="Тип клімату">Помірний клімат</param>
+        <param name="Тип грунту">Чорнозем</param>
+        <param name="Тип грунту">Звичайна грунт нормальної якості</param>
+        <param name="Тип грунту">Сухий грунт</param>
+      </offer>
+<offer id="511" available="1">
+        <url>https://agro-market.net/ua/catalog/item/157/</url>
+        <picture>https://agro-market.net/upload/iblock/b92/ehe8xl52j9181j6ylkksdz5j9o1rmp7l.jpeg</picture>
+        <name>Кабачок-цукіні "Чорний красень" ТМ "Весна" 2г</name>
+        <categoryId>71</categoryId>
+        <categoryId>66</categoryId>
+        <categoryId>203</categoryId>
+        <categoryId>462</categoryId>
+        <categoryId>893</categoryId>
+        <categoryId>1647</categoryId>
+        <currencyId>UAH</currencyId>
+        <ordering>620008</ordering>
+        <price>15.66</price>
+        <vendorCode>10157</vendorCode>
+        <description>Кабачок-цукіні &amp;quot;Чорний красень&amp;quot;  - це середньоранній сорт іноземної селекції. Період від сходів до початку плодоношення 45-55 днів. Рослина кущова, компактна, сильно-облиствена. На кущі зав'язується відразу 3-5 плодів. Плоди циліндричні, гладкі, глянцеві, кора тонка темно-зеленого кольору, довжиною 18-23см., вагою 0.5-1кг. М'якоть зеленувато-біла, товста, ніжна. Смакові якості при консервуванні і використанні в кулінарії відмінні. Врожайність висока - 14-20кг/м². Тривале плодоношення, висока врожайність і гарний зовнішній вигляд плодів.   
+
+Переваги покупки в Agro-Market
+
+
+   Тільки найкращі сорти, вирощені в Україні 
+   Маркування кожного сорту 
+   100% відповідність сортів 
+   Бережна і цілісна упаковка 
+   Перевірені часом сорти 
+   Приживлюваність в будь-якому регіоні України 
+</description>
+        <presence>В наявності.</presence>
+        <param field="true" index="false" name="artnumber">10157</param>
+        <param field="true" index="false" name="section_id">71</param>
+        <param field="true" index="false" name="rate">5</param>
+        <param name="Форма плоду">циліндрична</param>
+        <param name="Колір м'якоті">зеленувато-білий</param>
+        <param name="Термін вегетації"/>
+        <param name="Сортність">сортовий</param>
+        <param name="Збір врожаю">липень-жовтень</param>
+        <param name="Довжина плоду">18-23см</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Фасовка">міні упаковка</param>
+        <param name="Вид культури">кабачки</param>
+        <param name="Відстань посадки">50-100см</param>
+        <param name="Розмір плоду">великоплідний</param>
+        <param name="Колір плоду">зелений</param>
+        <param name="Термін дозрівання">ранній</param>
+        <param name="Упаковка">пакет</param>
+        <param name="Запилюваність">перехресне запилення</param>
+        <param name="Місце посадки">город</param>
+        <param name="Бренд">Весна</param>
+        <param name="Колір рослини">Зелений</param>
+        <param name="Тип використання">Для заморозки</param>
+        <param name="Тип використання">Консервування</param>
+        <param name="Тип використання">Кулінарія</param>
+        <param name="Терміни доставки">цілий рік</param>
+        <param name="Рівень поливу"/>
+        <param name="Рівень складності догляду"/>
+        <param name="Тип клімату">М'який клімат</param>
+        <param name="Тип клімату">Підходить для висадки на півдні</param>
+        <param name="Тип клімату">Помірний клімат</param>
+        <param name="Тип грунту">Чорнозем</param>
+        <param name="Тип грунту">Звичайна грунт нормальної якості</param>
+        <param name="Тип грунту">Сухий грунт</param>
+        <param name="Сонячне світло">Рекомендується світла сторона</param>
+      </offer>
+<offer id="512" available="1">
+        <url>https://agro-market.net/ua/catalog/item/158/</url>
+        <picture>https://agro-market.net/upload/iblock/ea3/whwam0rpwqaywh41mwz4hssaj3ousk0m.jpeg</picture>
+        <name>Кабачок "Грибовський 37" ТМ "Весна" 2г</name>
+        <categoryId>71</categoryId>
+        <categoryId>66</categoryId>
+        <categoryId>203</categoryId>
+        <categoryId>462</categoryId>
+        <categoryId>786</categoryId>
+        <categoryId>893</categoryId>
+        <categoryId>1647</categoryId>
+        <currencyId>UAH</currencyId>
+        <ordering>620008</ordering>
+        <price>15.97</price>
+        <vendorCode>10158</vendorCode>
+        <description> Кабачок &amp;quot;Грибовський 37&amp;quot;  - рослина кущова, сільноветвящіхся. Лист п'ятикутний, слаборассеченний. Розмір листа - середньої величини, забарвлення зелене, без білої плямистості, черешок листа довжиною 28-30см. Плід середнього розміру, коротко-циліндричний з ребристістю до плодоніжки. Забарвлення плоду в технічній стиглості світло-зелений.     М'якоть біла з зеленувато-жовтим відтінком, ніжна, соковита, середньої щільності. Кабачки &amp;quot;Грибовський 37&amp;quot; мають хороші смакові якості. Сім'яник циліндричної форми, гладкий, жовтувато-кремового забарвлення. Кора у кабачків тверда. Даний сорт відносно стійкий до гнилей плодів, в середньому ступені дивується борошнистою росою і бактеріозом.    Кабачки пристосовані до зростання в центральних і північних областях. Рекомендується для домашньої кулінарії.</description>
+        <presence>В наявності.</presence>
+        <param field="true" index="false" name="artnumber">10158</param>
+        <param field="true" index="false" name="section_id">71</param>
+        <param field="true" index="false" name="rate">5</param>
+        <param name="Форма плоду">циліндрична</param>
+        <param name="Колір м'якоті">зеленувато-білий</param>
+        <param name="Термін вегетації"/>
+        <param name="Сортність">сортовий</param>
+        <param name="Збір врожаю">липень-жовтень</param>
+        <param name="Довжина плоду">28-30см</param>
+        <param name="Відстань посадки">50-100см</param>
+        <param name="Розмір плоду">середньоплідний</param>
+        <param name="Колір плоду">зелений</param>
+        <param name="Термін дозрівання">ранній</param>
+        <param name="Упаковка">пакет</param>
+        <param name="Запилюваність">самозапильний</param>
+        <param name="Бренд">Весна</param>
+        <param name="Колір рослини">Зелений</param>
+        <param name="Тип використання">Для заморозки</param>
+        <param name="Тип використання">Консервування</param>
+        <param name="Тип використання">Кулінарія</param>
+        <param name="Терміни доставки">з лютого по червень</param>
+        <param name="Терміни доставки">з вересня по грудень</param>
+        <param name="Тип клімату">М'який клімат</param>
+        <param name="Тип клімату">Підходить для висадки на півдні</param>
+        <param name="Тип клімату">Помірний клімат</param>
+        <param name="Тип грунту">Чорнозем</param>
+        <param name="Тип грунту">Звичайна грунт нормальної якості</param>
+        <param name="Тип грунту">Сухий грунт</param>
+      </offer>
+<offer id="514" available="1">
+        <url>https://agro-market.net/ua/catalog/item/160/</url>
+        <picture>https://agro-market.net/upload/iblock/7f8/jq893qokgrq4fzfjey15fi40ffehwswa.jpeg</picture>
+        <name>Кабачок "Аеронавт" ТМ "SEDOS" 2.5г</name>
+        <categoryId>71</categoryId>
+        <categoryId>66</categoryId>
+        <categoryId>462</categoryId>
+        <currencyId>UAH</currencyId>
+        <ordering>620004</ordering>
+        <price>19.72</price>
+        <vendorCode>10160</vendorCode>
+        <description> Кабачок &amp;quot;Аеронавт&amp;quot; -  рaнньостиглий (46 днів від пoвних вcxoдів дo першого cбopу) copт. Bиpощується paccaдним cпocoбoм і пpямим пocівoм в гpунт. Ha paccaду виcівають у квітні, виcaдкa у гpунт в травні-червні. Пocів беспосередньо в гpунт в кoнці травня-червня. Добре відкликається на внесення органічним добривом.   Pослина куcтoва, кoмпaктна, плeтeй мaлo, головний пoбeг кopoткий. Плід цилиндричний, вагою 1.3 кг. Пoвepxя глaдкa, тeмнo-зeлeнa, cітки нeмає, малюнок у ввиді маленьких крапок світло-зеленого забарвлення. Кopa тoнкa, xpупка, нa pозразі зелена. M'якoть білувато-жовта, тoвста, xpумка, ніжна, щільна, coковита. Смакові якості відмінні. Ceмeннe гнeздo мaлe.</description>
+        <presence>Швидка відправка</presence>
+        <param field="true" index="false" name="artnumber">10160</param>
+        <param field="true" index="false" name="section_id">71</param>
+        <param name="Форма плоду">циліндрична</param>
+        <param name="Термін вегетації"/>
+        <param name="Сортність">сортовий</param>
+        <param name="Збір врожаю">липень-жовтень</param>
+        <param name="Довжина плоду">28-30см</param>
+        <param name="Бренд">Sedos</param>
+      </offer>
+<offer id="515" available="1">
+        <url>https://agro-market.net/ua/catalog/item/161/</url>
+        <picture>https://agro-market.net/upload/iblock/972/5meq9c206a4l3c8l572oj0ylajxx8umj.jpeg</picture>
+        <name>Кабачок "Грибовський" ТМ "SEDOS" 2.5г</name>
+        <categoryId>71</categoryId>
+        <categoryId>66</categoryId>
+        <categoryId>462</categoryId>
+        <currencyId>UAH</currencyId>
+        <ordering>620002</ordering>
+        <price>20.10</price>
+        <vendorCode>10161</vendorCode>
+        <description> Кабачок &amp;quot;Грибовський&amp;quot;  - рослина кущова, сільноветвящіхся. Лист п'ятикутний, слаборассеченний. Розмір листа - середньої величини, забарвлення зелене, без білої плямистості, черешок листа довжиною 28-30см. Плід середнього розміру, коротко-циліндричний з ребристістю до плодоніжки. Забарвлення плоду в технічній стиглості світло-зелений.     М'якоть біла з зеленувато-жовтим відтінком, ніжна, соковита, середньої щільності. Кабачки &amp;quot;Грибовський&amp;quot; мають хороші смакові якості. Сім'яник циліндричної форми, гладкий, жовтувато-кремового забарвлення. Кора у кабачків тверда. Даний сорт відносно стійкий до гнилей плодів, в середньому ступені дивується борошнистою росою і бактеріозом.    Кабачки пристосовані до зростання в центральних і північних областях. Рекомендується для домашньої кулінарії.</description>
+        <presence>Швидка відправка</presence>
+        <param field="true" index="false" name="artnumber">10161</param>
+        <param field="true" index="false" name="section_id">71</param>
+        <param name="Форма плоду">циліндрична</param>
+        <param name="Термін вегетації"/>
+        <param name="Сортність">сортовий</param>
+        <param name="Збір врожаю">липень-жовтень</param>
+        <param name="Довжина плоду">28-30см</param>
+        <param name="Бренд">Sedos</param>
+      </offer>
+<offer id="516" available="1">
+        <url>https://agro-market.net/ua/catalog/item/162/</url>
+        <picture>https://agro-market.net/upload/iblock/c0d/2l8pr76o7coe2k4hor9oarclusw4qllk.jpeg</picture>
+        <name>Кабачок-цукіні "Золотинка" ТМ "SEDOS" 2.5г</name>
+        <categoryId>71</categoryId>
+        <categoryId>66</categoryId>
+        <categoryId>462</categoryId>
+        <currencyId>UAH</currencyId>
+        <ordering>620006</ordering>
+        <price>19.72</price>
+        <vendorCode>10162</vendorCode>
+        <description>Кабачок-цукіні &amp;quot;Золотинка&amp;quot; - це ранньостиглий, у плодоношення вступає на 40 день. Рослина кущова, з куща знімають до 15 плодів середньою вагою до 0.5 кг. Вирощують під плівкою і у відкритому ґрунті. Плоди довжиною до 10см з успіхом використовують для консервування. За смаковими якостями не поступаються огіркам. Має яскраво-помаранчеві довгі плоди зі щільною, досить солодкою хрусткою м'якоттю, з вмістом сухих речовин в соку плоду до 8%, цукру 4.2%. Період від сходів до першого збору становить 47 днів. Рослини в першій половині компактні і тільки в другій половині з'являються невеликі батоги. Врожайність на богарі становить 25-35т/га. Плоди володіють щільною м'якоттю помаранчевого, що не розпливається, іноді жовто-оранжевого кольору, забарвлення якої не втрачається при консервуванні.  
+
+Переваги покупки в Agro-Market
+
+
+   Тільки найкращі сорти, вирощені в Україні 
+   Маркування кожного сорту 
+   100% відповідність сортів 
+   Бережна і цілісна упаковка 
+   Перевірені часом сорти 
+   Приживлюваність в будь-якому регіоні України 
+</description>
+        <presence>Швидка відправка</presence>
+        <param field="true" index="false" name="artnumber">10162</param>
+        <param field="true" index="false" name="section_id">71</param>
+        <param field="true" index="false" name="rate">5</param>
+        <param name="Форма плоду">циліндрична</param>
+        <param name="Колір м'якоті">жовта</param>
+        <param name="Термін вегетації"/>
+        <param name="Сортність">сортовий</param>
+        <param name="Збір врожаю">липень-жовтень</param>
+        <param name="Довжина плоду">13-15см</param>
+        <param name="Розмір плоду">середньоплідний</param>
+        <param name="Колір плоду">жовтий</param>
+        <param name="Термін дозрівання">ранній</param>
+        <param name="Запилюваність">перехресне запилення</param>
+        <param name="Місце посадки">город</param>
+        <param name="Бренд">Sedos</param>
+        <param name="Колір рослини">Зелений</param>
+        <param name="Тип використання">Для заморозки</param>
+        <param name="Тип використання">Консервування</param>
+        <param name="Тип використання">Кулінарія</param>
+        <param name="Тип використання">у свіжому вигляді</param>
+        <param name="Терміни доставки">цілий рік</param>
+        <param name="Рівень поливу"/>
+        <param name="Рівень складності догляду"/>
+        <param name="Тип клімату">М'який клімат</param>
+        <param name="Тип клімату">Підходить для висадки на півдні</param>
+        <param name="Тип клімату">Помірний клімат</param>
+        <param name="Тип грунту">Чорнозем</param>
+        <param name="Тип грунту">Звичайна грунт нормальної якості</param>
+        <param name="Сонячне світло">Рекомендується світла сторона</param>
+      </offer>
+<offer id="517" available="1">
+        <url>https://agro-market.net/ua/catalog/item/163/</url>
+        <picture>https://agro-market.net/upload/iblock/0b8/ut5xzvbi25y0kd0x7a7odk6vg4qinq3m.jpeg</picture>
+        <name>Патисон "Помаранчевий" ТМ "Весна" 2г</name>
+        <categoryId>89</categoryId>
+        <categoryId>66</categoryId>
+        <categoryId>203</categoryId>
+        <categoryId>462</categoryId>
+        <categoryId>786</categoryId>
+        <categoryId>788</categoryId>
+        <categoryId>932</categoryId>
+        <categoryId>1647</categoryId>
+        <currencyId>UAH</currencyId>
+        <ordering>620015</ordering>
+        <price>16.10</price>
+        <vendorCode>10163</vendorCode>
+        <description>Патіссон &amp;quot;Помаранчевий&amp;quot; - це ранньостиглий сорт. Має привабливий вигляд, чудовий смак. Рослина кущова, відносно стійка до борошнистої роси. Плоди тарілкоподібної форми, із зубчастими краями, в технічній стиглості золотаві, масою 50 – 800г. М'якуш біло-жовтий, соковитий, солодкий. Використовується в переробленому та консервованому вигляді.
+Переваги покупки в Agro-Market
+
+
+   Тільки найкращі сорти, вирощені в Україні 
+   Маркування кожного сорту 
+   100% відповідність сортів 
+   Бережна і цілісна упаковка 
+   Перевірені часом сорти 
+   Приживлюваність в будь-якому регіоні України 
+</description>
+        <presence>Швидка відправка</presence>
+        <param field="true" index="false" name="artnumber">10163</param>
+        <param field="true" index="false" name="section_id">89</param>
+        <param field="true" index="false" name="rate">5</param>
+        <param name="Форма плоду">плоскоокругла</param>
+        <param name="Колір м'якоті">біла</param>
+        <param name="Колір м'якоті">рiзнобарвний</param>
+        <param name="Колір м'якоті">жовта</param>
+        <param name="Термін вегетації"/>
+        <param name="Розмір плоду">великоплідний</param>
+        <param name="Колір плоду">жовтий</param>
+        <param name="Термін дозрівання">ранній</param>
+        <param name="Упаковка">пакет</param>
+        <param name="Запилюваність">перехресне запилення</param>
+        <param name="Смак плода">солодкий</param>
+        <param name="Місце посадки">город</param>
+        <param name="Бренд">Весна</param>
+        <param name="Колір рослини">Зелений</param>
+        <param name="Тип використання">Консервування</param>
+        <param name="Тип використання">Кулінарія</param>
+        <param name="Терміни доставки">цілий рік</param>
+        <param name="Рівень поливу"/>
+        <param name="Рівень складності догляду"/>
+        <param name="Тип клімату">М'який клімат</param>
+        <param name="Тип клімату">Підходить для висадки на півдні</param>
+        <param name="Тип клімату">Помірний клімат</param>
+        <param name="Тип грунту">Чорнозем</param>
+        <param name="Тип грунту">Глина</param>
+        <param name="Тип грунту">Звичайна грунт нормальної якості</param>
+        <param name="Тип грунту">Пісок</param>
+        <param name="Сонячне світло">Рекомендується світла сторона</param>
+      </offer>
+<offer id="518" available="1">
+        <url>https://agro-market.net/ua/catalog/item/164/</url>
+        <picture>https://agro-market.net/upload/iblock/6a9/hy6e0vjg9iu898knu3c3mxohczkh0jui.jpeg</picture>
+        <name>Патисон "Білий" ТМ "Весна" 2г</name>
+        <categoryId>89</categoryId>
+        <categoryId>66</categoryId>
+        <categoryId>203</categoryId>
+        <categoryId>462</categoryId>
+        <categoryId>1647</categoryId>
+        <currencyId>UAH</currencyId>
+        <ordering>620040</ordering>
+        <price>16.42</price>
+        <vendorCode>10164</vendorCode>
+        <description>Середньостиглий сорт. Рослина кущова, гіллясте, високоврожайне. Плоди сплюснуті, тарілкоподібні форми, з зубчастими краями, вагою 400 - 500г. Колір плодів у технічній стиглості білий. М'якоть біла, щільна з відмінними смаковими якостями. Сорт відносно стійкий до хвороб Використовують для консервування та приготування овочевих страв.</description>
+        <presence>Швидка відправка</presence>
+        <param field="true" index="false" name="artnumber">10164</param>
+        <param field="true" index="false" name="section_id">89</param>
+        <param field="true" index="false" name="rate">5</param>
+        <param name="Форма плоду">плоскоокругла</param>
+        <param name="Колір м'якоті">біла</param>
+        <param name="Термін вегетації"/>
+        <param name="Розмір плоду">великоплідний</param>
+        <param name="Колір плоду">білий</param>
+        <param name="Термін дозрівання">середній</param>
+        <param name="Упаковка">пакет</param>
+        <param name="Бренд">Весна</param>
+        <param name="Колір рослини">Зелений</param>
+        <param name="Тип використання">Консервування</param>
+        <param name="Тип використання">Кулінарія</param>
+        <param name="Терміни доставки">з лютого по червень</param>
+        <param name="Терміни доставки">з вересня по грудень</param>
+        <param name="Тип клімату">М'який клімат</param>
+        <param name="Тип клімату">Підходить для висадки на півдні</param>
+        <param name="Тип клімату">Помірний клімат</param>
+        <param name="Тип грунту">Чорнозем</param>
+        <param name="Тип грунту">Звичайна грунт нормальної якості</param>
+        <param name="Тип грунту">Сухий грунт</param>
+      </offer>
+<offer id="519" available="1">
+        <url>https://agro-market.net/ua/catalog/item/165/</url>
+        <picture>https://agro-market.net/upload/iblock/3e2/an8wrku2x1tcktv9j5niacn0d5o1a2t6.jpeg</picture>
+        <name>Патисон "Помаранчевий" ТМ "SEDOS" 2г</name>
+        <categoryId>89</categoryId>
+        <categoryId>66</categoryId>
+        <categoryId>462</categoryId>
+        <categoryId>788</categoryId>
+        <currencyId>UAH</currencyId>
+        <ordering>620006</ordering>
+        <price>19.72</price>
+        <vendorCode>10165</vendorCode>
+        <description>Патіссон &amp;quot;Помаранчевий&amp;quot; - це ранньостиглий сорт. Має привабливий вигляд, чудовий смак. Рослина кущова, відносно стійка до борошнистої роси. Плоди тарілкоподібної форми, із зубчастими краями, в технічній стиглості золотаві, масою 50 – 800г. М'якуш біло-жовтий, соковитий, солодкий. Використовується в переробленому та консервованому вигляді.Переваги покупки в Agro-Market Тільки найкращі сорти, вирощені в Україні Маркування кожного сорту 100% відповідність сортів Бережна і цілісна упаковка Перевірені часом сорти Приживлюваність в будь-якому регіоні України</description>
+        <presence>Швидка відправка</presence>
+        <param field="true" index="false" name="artnumber">10165</param>
+        <param field="true" index="false" name="section_id">89</param>
+        <param field="true" index="false" name="rate">5</param>
+        <param name="Форма плоду">плоскоокругла</param>
+        <param name="Колір м'якоті">жовта</param>
+        <param name="Колір м'якоті">біла</param>
+        <param name="Термін вегетації"/>
+        <param name="Розмір плоду">великоплідний</param>
+        <param name="Колір плоду">жовтий</param>
+        <param name="Термін дозрівання">ранній</param>
+        <param name="Запилюваність">перехресне запилення</param>
+        <param name="Смак плода">солодкий</param>
+        <param name="Місце посадки">город</param>
+        <param name="Бренд">Sedos</param>
+        <param name="Колір рослини">Зелений</param>
+        <param name="Тип використання">Консервування</param>
+        <param name="Тип використання">Кулінарія</param>
+        <param name="Терміни доставки">цілий рік</param>
+        <param name="Рівень поливу"/>
+        <param name="Рівень складності догляду"/>
+        <param name="Тип клімату">М'який клімат</param>
+        <param name="Тип клімату">Підходить для висадки на півдні</param>
+        <param name="Тип клімату">Помірний клімат</param>
+        <param name="Тип грунту">Чорнозем</param>
+        <param name="Тип грунту">Кислий грунт</param>
+        <param name="Тип грунту">Звичайна грунт нормальної якості</param>
+        <param name="Тип грунту">Пісок</param>
+        <param name="Сонячне світло">Рекомендується світла сторона</param>
+      </offer>
+<offer id="521" available="1">
+        <url>https://agro-market.net/ua/catalog/item/167/</url>
+        <picture>https://agro-market.net/upload/iblock/f0f/qy8cf8iis92mxxgrgucqqw29opuizo2d.jpeg</picture>
+        <name>Редька "Дайкон" ТМ "Весна" 2г</name>
+        <categoryId>73</categoryId>
+        <categoryId>66</categoryId>
+        <categoryId>202</categoryId>
+        <categoryId>203</categoryId>
+        <categoryId>462</categoryId>
+        <categoryId>893</categoryId>
+        <categoryId>1647</categoryId>
+        <categoryId>2231</categoryId>
+        <currencyId>UAH</currencyId>
+        <ordering>620007</ordering>
+        <price>15.66</price>
+        <vendorCode>10167</vendorCode>
+        <description>Середньоранній сорт. Вегетаційний період від сходів до технічної стиглості 60-75 днів. Коренеплід циліндричний, гладкий, білого кольору, довжиною 50-75 см, діаметром 5-8 см, вагою 1-2 кг. М'якоть соковита, біла, щільна, солодка, відмінних смакових якостей. Використовується для споживання у свіжому вигляді та тривалого зберігання.</description>
+        <presence>Швидка відправка</presence>
+        <param field="true" index="false" name="artnumber">10167</param>
+        <param field="true" index="false" name="section_id">73</param>
+        <param field="true" index="false" name="rate">5</param>
+        <param name="Форма плоду">циліндрична</param>
+        <param name="Колір м'якоті">біла</param>
+        <param name="Термін вегетації"/>
+        <param name="Розмір плоду">великоплідний</param>
+        <param name="Колір плоду">білий</param>
+        <param name="Термін дозрівання">середній</param>
+        <param name="Упаковка">пакет</param>
+        <param name="Смак плода">солодкий (десертний)</param>
+        <param name="Бренд">Весна</param>
+        <param name="Колір рослини">Зелений</param>
+        <param name="Тип використання">Консервування</param>
+        <param name="Тип використання">у свіжому вигляді</param>
+        <param name="Терміни доставки">з лютого по червень</param>
+        <param name="Терміни доставки">з вересня по грудень</param>
+        <param name="Тип клімату">М'який клімат</param>
+        <param name="Тип клімату">Підходить для висадки на півдні</param>
+        <param name="Тип клімату">Помірний клімат</param>
+        <param name="Тип грунту">Чорнозем</param>
+        <param name="Тип грунту">Звичайна грунт нормальної якості</param>
+        <param name="Тип грунту">Пісок</param>
+      </offer>
+<offer id="522" available="1">
+        <url>https://agro-market.net/ua/catalog/item/168/</url>
+        <picture>https://agro-market.net/upload/iblock/1b1/g7kb2qp3ekhk672prgho1tfn6tf1zk8f.jpeg</picture>
+        <name>Кріп "Грибовський" ТМ "Весна" 2г</name>
+        <categoryId>948</categoryId>
+        <categoryId>66</categoryId>
+        <categoryId>72</categoryId>
+        <categoryId>202</categoryId>
+        <categoryId>203</categoryId>
+        <categoryId>462</categoryId>
+        <categoryId>893</categoryId>
+        <categoryId>940</categoryId>
+        <categoryId>1647</categoryId>
+        <categoryId>1716</categoryId>
+        <currencyId>UAH</currencyId>
+        <ordering>620051</ordering>
+        <price>16.77</price>
+        <vendorCode>10168</vendorCode>
+        <description>Кріп &amp;quot;Грибовський&amp;quot; - це середньостиглий, високоврожайний сорт кропу. Вегетаційний період від посіву до збору врожаю - 62-65 днів. Придатний для всесезонного вирощування у відкритому ґрунті й закритих приміщеннях. Рослина висока. Листя великі, інтенсивно зелені й дуже ароматні. Сорт характеризується стійкістю до багатьох хвороб. Використовують у свіжому вигляді, для переробки й заморожування. Агротехніка: висівати насіння кропу слід з квітня по липень - в декілька заходів. Глибина загортання: 1,5-2 см, відстань 8-10 см. Можна садити під зиму. Рослина швидко відростає після зрізу. Догляд полягає у своєчасному поливі й підгодовування. 
+
+
+Переваги покупки в Agro-Market 
+
+
+ Тільки найкращі сорти, вирощені
+   в Україні 
+ Маркування кожного сорту 
+ 100% відповідність сортів 
+ Бережна і цілісна
+   упаковка 
+ Перевірені часом сорти 
+ Приживлюваність в будь-якому
+   регіоні України</description>
+        <presence>В наявності.</presence>
+        <param field="true" index="false" name="artnumber">10168</param>
+        <param field="true" index="false" name="section_id">948</param>
+        <param field="true" index="false" name="rate">5</param>
+        <param name="Форма плоду">овальна</param>
+        <param name="Колір м'якоті">зелена</param>
+        <param name="Термін вегетації"/>
+        <param name="Відстань посадки">5см</param>
+        <param name="Розмір плоду">середньоплідний</param>
+        <param name="Колір плоду">зелений</param>
+        <param name="Термін дозрівання">середній</param>
+        <param name="Упаковка">пакет</param>
+        <param name="Запилюваність">перехресне запилення</param>
+        <param name="Смак плода">пряный</param>
+        <param name="Місце посадки">город</param>
+        <param name="Бренд">Весна</param>
+        <param name="Колір рослини">Зелений</param>
+        <param name="Тип використання">Для заморозки</param>
+        <param name="Тип використання">Консервування</param>
+        <param name="Тип використання">Кулінарія</param>
+        <param name="Тип використання">Під зріз</param>
+        <param name="Тип використання">у свіжому вигляді</param>
+        <param name="Терміни доставки">з лютого по червень</param>
+        <param name="Терміни доставки">з вересня по грудень</param>
+        <param name="Рівень поливу"/>
+        <param name="Рівень складності догляду"/>
+        <param name="Тип клімату">М'який клімат</param>
+        <param name="Тип клімату">Підходить для висадки на півдні</param>
+        <param name="Тип клімату">Помірний клімат</param>
+        <param name="Тип грунту">Чорнозем</param>
+        <param name="Тип грунту">Звичайна грунт нормальної якості</param>
+        <param name="Тип грунту">Пісок</param>
+        <param name="Сонячне світло">Рекомендується світла сторона</param>
+      </offer>
+<offer id="524" available="1">
+        <url>https://agro-market.net/ua/catalog/item/170/</url>
+        <picture>https://agro-market.net/upload/iblock/d74/e36b02b6lbo5vkll9bxvc0mn9txdymn6.jpeg</picture>
+        <name>Кріп "Кущовий" ТМ "Весна" 2г</name>
+        <categoryId>948</categoryId>
+        <categoryId>66</categoryId>
+        <categoryId>72</categoryId>
+        <categoryId>203</categoryId>
+        <categoryId>462</categoryId>
+        <categoryId>893</categoryId>
+        <categoryId>940</categoryId>
+        <categoryId>1647</categoryId>
+        <categoryId>1716</categoryId>
+        <currencyId>UAH</currencyId>
+        <ordering>620007</ordering>
+        <price>16.60</price>
+        <vendorCode>10170</vendorCode>
+        <description>Кріп &amp;quot;Кущовий&amp;quot; - це пізньостиглий сорт. Рослина велика, швидкоростуча. Листя велике, зелене, з восковим нальотом. Вирощується прямим посівом насіння в ґрунт рядами з відстанню між рослинами 10-12см. (Загущені посіви необхідно проріджувати). Рослини дуже холодостійкі, добре переносять короткочасні весняні заморозки. Цей сорт формує дуже великі кущі, придатний для вирощування в горщиках. Тривалий час не формується парасолькою, продовжуючи термін використання рослини на зелень. Володіє дуже приємним і сильним ароматом. Вирощують кріп в плівковій теплиці або сіють рано на розсаду (березень - квітень), висаджуючи потім в ґрунт в кінці травня. Грунт готують, як для городнього кропу. Вирощувати кріп можна і в теплиці, відводячи для нього торцеву частину. Насіння сіють на відстані 3-4 см один від одного. Ряди розташовують через 20-25 см. Коли рослини досягнуть 6 см у висоту, їх проріджують. Друге і третє проріджування проводять коли рослини почнуть затінювати один одного. Після третього проріджування відстань між кущами досягає 20-30 см. Можна сіяти на відстані 10-12 см і проводити лише одне проріджування.
+
+
+Переваги покупки в Agro-Market 
+
+
+ Тільки найкращі сорти, вирощені
+   в Україні 
+ Маркування кожного сорту 
+ 100% відповідність сортів 
+ Бережна і цілісна
+   упаковка 
+ Перевірені часом сорти 
+ Приживлюваність в будь-якому
+   регіоні України</description>
+        <presence>В наявності.</presence>
+        <param field="true" index="false" name="artnumber">10170</param>
+        <param field="true" index="false" name="section_id">948</param>
+        <param field="true" index="false" name="rate">5</param>
+        <param name="Форма плоду">овальна</param>
+        <param name="Колір м'якоті">зелена</param>
+        <param name="Термін вегетації"/>
+        <param name="Відстань посадки">5см</param>
+        <param name="Розмір плоду">середньоплідний</param>
+        <param name="Колір плоду">зелений</param>
+        <param name="Термін дозрівання">пізній</param>
+        <param name="Упаковка">пакет</param>
+        <param name="Запилюваність">перехресне запилення</param>
+        <param name="Смак плода">пікантний</param>
+        <param name="Місце посадки">город</param>
+        <param name="Бренд">Весна</param>
+        <param name="Колір рослини">Зелений</param>
+        <param name="Тип використання">Для заморозки</param>
+        <param name="Тип використання">Консервування</param>
+        <param name="Тип використання">Кулінарія</param>
+        <param name="Тип використання">Під зріз</param>
+        <param name="Тип використання">у свіжому вигляді</param>
+        <param name="Терміни доставки">з лютого по червень</param>
+        <param name="Терміни доставки">з вересня по грудень</param>
+        <param name="Рівень поливу"/>
+        <param name="Рівень складності догляду"/>
+        <param name="Тип клімату">М'який клімат</param>
+        <param name="Тип клімату">Підходить для висадки на півдні</param>
+        <param name="Тип клімату">Помірний клімат</param>
+        <param name="Тип грунту">Чорнозем</param>
+        <param name="Тип грунту">Звичайна грунт нормальної якості</param>
+        <param name="Тип грунту">Пісок</param>
+        <param name="Сонячне світло">Рекомендується світла сторона</param>
+        <param name="Різновид">для відкритого ґрунту</param>
+        <param name="Різновид">партенокарпічні</param>
+        <param name="Різновид">бджолозапильні</param>
+      </offer>
+<offer id="526" available="1">
+        <url>https://agro-market.net/ua/catalog/item/172/</url>
+        <picture>https://agro-market.net/upload/iblock/d4a/31q3re50l2sio888m42caswlspmandze.jpeg</picture>
+        <name>Кріп "Геркулес" ТМ "Весна" 2г</name>
+        <categoryId>72</categoryId>
+        <categoryId>66</categoryId>
+        <categoryId>203</categoryId>
+        <categoryId>462</categoryId>
+        <categoryId>893</categoryId>
+        <categoryId>948</categoryId>
+        <categoryId>1647</categoryId>
+        <categoryId>1716</categoryId>
+        <currencyId>UAH</currencyId>
+        <ordering>620002</ordering>
+        <price>16.42</price>
+        <vendorCode>10172</vendorCode>
+        <description>Кріп &amp;quot;Геркулес&amp;quot; - це середньостиглий сорт. Рослина потужна, розлога, висотою 18-25 см, не схильна до вилягання. Листя великі, ароматні, темно-зелені з восковим нальотом. Перший збір зелені можна проводити через 35-45 днів. Рекомендується для вирощування у відкритому ґрунті й плівкових укриттях. Використовують у свіжому і сушеному вигляді, для консервації й засолу. Висівають в контейнері через кожні 12-15 днів з квітня по серпень на рівній поверхні суцільною сівбою (норма висева- 1-2г на м.кв.) або на грядці з відстанню 15-20 см. Між рядками (3-4г. На кв .м.) Грядку розміщують на сонячній ділянці, де не застоюється вода. Добре росте, цвіте й утворює якісне насіння в жарку, сонячну погоду на вологій, родючої, добре обробленої з нейтральною реакцією ґрунті. Догляд полягає в розпушуванні, прополці, поливах.  
+
+
+Переваги покупки в Agro-Market 
+
+
+ Тільки найкращі сорти, вирощені
+   в Україні 
+ Маркування кожного сорту 
+ 100% відповідність сортів 
+ Бережна і цілісна
+   упаковка 
+ Перевірені часом сорти 
+ Приживлюваність в будь-якому
+   регіоні України</description>
+        <presence>В наявності.</presence>
+        <param field="true" index="false" name="artnumber">10172</param>
+        <param field="true" index="false" name="section_id">72</param>
+        <param field="true" index="false" name="rate">5</param>
+        <param name="Форма плоду">подовжена</param>
+        <param name="Колір м'якоті">зелена</param>
+        <param name="Термін вегетації"/>
+        <param name="Відстань посадки">5см</param>
+        <param name="Розмір плоду">великоплідний</param>
+        <param name="Колір плоду">зелений</param>
+        <param name="Термін дозрівання">середній</param>
+        <param name="Упаковка">пакет</param>
+        <param name="Запилюваність">перехресне запилення</param>
+        <param name="Смак плода">пікантний</param>
+        <param name="Місце посадки">город</param>
+        <param name="Бренд">Весна</param>
+        <param name="Колір рослини">Зелений</param>
+        <param name="Тип використання">Для заморозки</param>
+        <param name="Тип використання">Консервування</param>
+        <param name="Тип використання">Кулінарія</param>
+        <param name="Тип використання">Під зріз</param>
+        <param name="Тип використання">у свіжому вигляді</param>
+        <param name="Терміни доставки">з лютого по червень</param>
+        <param name="Терміни доставки">з вересня по грудень</param>
+        <param name="Рівень поливу"/>
+        <param name="Рівень складності догляду"/>
+        <param name="Тип клімату">М'який клімат</param>
+        <param name="Тип клімату">Підходить для висадки на півдні</param>
+        <param name="Тип клімату">Помірний клімат</param>
+        <param name="Тип грунту">Чорнозем</param>
+        <param name="Тип грунту">Звичайна грунт нормальної якості</param>
+        <param name="Тип грунту">Пісок</param>
         <param name="Сонячне світло">Рекомендується світла сторона</param>
       </offer>
 </offers>
